@@ -1,0 +1,1 @@
+Indicate which, if any, of the following output statements are legal:a) std::cout << "/*";b) std::cout << "*/";c) std::cout << /* "*/" */;d) std::cout << /* "*/" /* "/*" */;a and b are legal.
